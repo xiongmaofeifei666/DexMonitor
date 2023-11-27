@@ -1,0 +1,18 @@
+{
+  "name": "monitorjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hkxiaoyu118",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "alchemy-sdk": "^2.8.0",
+    "axios": "^1.3.6",
+    "ethers": "^5.7.2",
+    "sprintf-js": "^1.1.2"
+  }
+}
